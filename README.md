@@ -9,7 +9,7 @@
 1. Barometer
 1. 4x pyro channels
 1. GPS
-1. Long-ange telemetry
+1. Long range telemetry
 1. Built-in antennas
 1. low power processor
 1. high frequency onboard storage of data
